@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	padding: 0;
+	
+}
+.caja{
+	height: 200px;
+	width: 200px;
+	position: relative;
+	left: 250px;
+	top: 30px;
+
+
+}
+.rosada{
+	background-color: #ee3e64;
+}
+.celeste{
+	background-color: #44accf;
+}
+.verde{
+	background-color: #b7d84b;
+}
